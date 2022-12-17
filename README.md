@@ -1,2 +1,2 @@
-# Prime-Number
-Prime number by usng funtion.
+# C Programming
+C programing
