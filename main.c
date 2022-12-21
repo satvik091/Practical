@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{	// Diagonal of an array.
     int m, n;
 	scanf ("%d %d", &m, &n);
 	
